@@ -1,0 +1,99 @@
+{
+  "actions": [],
+  "current_index": 4,
+  "current_profile": "claude",
+  "current_task": "t_dd71f11f",
+  "tasks": [
+    {
+      "assignee": "claude",
+      "id": "t_edc40247",
+      "profile": "claude",
+      "status": "done"
+    },
+    {
+      "assignee": "codex",
+      "id": "t_77bd82aa",
+      "profile": "codex",
+      "status": "done"
+    },
+    {
+      "assignee": "codex",
+      "id": "t_a7a051e2",
+      "profile": "claude",
+      "status": "done"
+    },
+    {
+      "assignee": null,
+      "id": "t_7b112972",
+      "profile": "claude",
+      "status": "done"
+    },
+    {
+      "assignee": "claude",
+      "id": "t_dd71f11f",
+      "profile": "claude",
+      "status": "blocked"
+    },
+    {
+      "assignee": null,
+      "id": "t_1b6850cb",
+      "profile": "claude",
+      "status": "ready"
+    },
+    {
+      "assignee": null,
+      "id": "t_d651ad94",
+      "profile": "claude",
+      "status": "ready"
+    },
+    {
+      "assignee": null,
+      "id": "t_da3fc27f",
+      "profile": "claude",
+      "status": "ready"
+    },
+    {
+      "assignee": null,
+      "id": "t_14948fb7",
+      "profile": "codex",
+      "status": "done"
+    },
+    {
+      "assignee": null,
+      "id": "t_85492a9a",
+      "profile": "claude",
+      "status": "ready"
+    },
+    {
+      "assignee": null,
+      "id": "t_e55b2cef",
+      "profile": "claude",
+      "status": "ready"
+    },
+    {
+      "assignee": null,
+      "id": "t_cc17592b",
+      "profile": "claude",
+      "status": "ready"
+    },
+    {
+      "assignee": null,
+      "id": "t_81da5ef9",
+      "profile": "claude",
+      "status": "blocked"
+    },
+    {
+      "assignee": null,
+      "id": "t_ba474811",
+      "profile": "claude",
+      "status": "ready"
+    },
+    {
+      "assignee": null,
+      "id": "t_f76aebbe",
+      "profile": "claude",
+      "status": "ready"
+    }
+  ],
+  "tenant": "etsy-finanz-dashboard-2026"
+}
